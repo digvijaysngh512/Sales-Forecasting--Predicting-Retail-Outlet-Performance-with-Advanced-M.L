@@ -60,3 +60,7 @@ Built a retail sales forecasting pipeline on 8,523 records, performing EDA, miss
 Benchmarked 9 regression models with 10-fold cross-validation, achieving up to 0.574 average CV R².
 
 Optimized CatBoost using RandomizedSearchCV, reaching 0.598 test R² and 0.605 full-data R², and deployed via pickle.
+
+◦ Built CatBoost, XGBoost, and LightGBM models with R² 0.60, reducing MSE to 1.3M for sales strategies..
+◦ Engineered features and applied regression models, improving accuracy 13% and identifying key sales drivers.
+
